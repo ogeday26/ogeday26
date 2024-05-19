@@ -55,7 +55,7 @@
 
 <h4 align="left" id="contact-information">Contact Information</h4>
 <p>
-Feel free to reach out to me at safa@rubiklabs.com for any inquiries or collaboration opportunities. I'm always open to new projects and partnerships!
+Feel free to reach out to me at <a target="_new" rel="noreferrer">safa@rubiklabs.com</a> for any inquiries or collaboration opportunities. I'm always open to new projects and partnerships!
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ogeday26&label=Profile%20views&color=0e75b6&style=flat" alt="ogeday26" /> </p>  
